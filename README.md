@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automotive Software Testing, Big Data, Machine Learning.
 - 🌱 I have skilled in the following technologies i.e Hadoop, Hive, HBase, Kafka, SQL, MySQL, Cassandra, MongoDB, PySpark,Python, Airflow, Time-Series Database(TDengine learning) and AWS.
 - 💞️ I’m looking to collaborate on any data engineering project.
-- 📫 How to reach me email: kirticse.chakma869@gmail.com
+- 📫 How to reach me email: kulakirtichakma@gmail.com
 
 <!---
 TUCchkul/TUCchkul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
